@@ -29,7 +29,7 @@ Projeto desenvolvido em **React** utilizando **Styled Components**, permitindo g
 
 ##  Estrutura do Projeto
 
-```text
+```
 src/
 ├── components/
 │   ├── Header.jsx
